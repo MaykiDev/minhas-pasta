@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+/*
+    Tudo em HTML em id é # no CSS (Só pode um elemento)
+    TUdo em HTML em class é . no CSS (pode varios elementos)
+*/
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: rgb(43, 165, 124);
+}
+
+h1#principal{
+    text-align: center;
+}
+
+h2{
+    color: blue;
+}
+
+.basico{
+    background-color: bisque;
+}
+
+.intermediario{
+    background-color: rgb(190, 12, 12);
+}
+
+.avançado{
+    background-color: blueviolet;
+}
