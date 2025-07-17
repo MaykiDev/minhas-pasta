@@ -39,8 +39,10 @@ body{
     padding: 10px 20px;
     border-radius: 20px;
     cursor: pointer;
+    text-decoration: none;
 }
 
  .card button:hover {
     background-color: #2980b9;
+    text-decoration: underline;
 }
